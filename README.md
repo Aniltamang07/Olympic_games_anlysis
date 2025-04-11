@@ -1,6 +1,6 @@
 # Olympic_games_analysis
 
-![]([https://github.com/najirh/netflix_sql_project/blob/main/logo.png](https://github.com/Aniltamang07/Olympic_games_anlysis/blob/main/Olympic_games.png)])
+![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png](https://github.com/Aniltamang07/Olympic_games_anlysis/blob/main/Olympic_games.png))
 
 ## Overview
 This project involves a comprehensive analysis of olympic Games using SQL. The goal is to extract valuable insights from the dataset. The following README provides a detailed account of the project's objectives, questions, solutions, findings, and conclusions.
