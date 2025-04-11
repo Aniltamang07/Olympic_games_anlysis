@@ -3,7 +3,7 @@
 ![](https://github.com/Aniltamang07/Olympic_games_anlysis/blob/main/Olympic_games.png)
 
 ## Overview
-This project involves a comprehensive analysis of olympic Games using SQL. The goal is to extract valuable insights from the dataset. The following README provides a detailed account of the project's objectives, questions, solutions, findings, and conclusions.
+To design and implement a relational database system for managing and analyzing data related to the Olympic Games, including athletes, events, countries, medals, and results. The project allows users to query and generate reports on various aspects of the Olympic Games using SQL.
 
 ## Objectives
 
