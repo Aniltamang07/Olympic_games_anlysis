@@ -132,7 +132,7 @@ ORDER BY 2 DESC;
 ## Findings and Conclusion
 
 - **Content Distribution:** The dataset contains a all the records of the olympic games from 1896 to 2016.
-- **Common Ratings:** finds the female and male ratio in the olympic games.
+- **Gender Ratio:** finds the female and male ratio in the olympic games.
 - **Geographical Insights:** The top countries and the medals won by them.
 
 This analysis provides a comprehensive view of olympic_games and can help gain knowledge about previous olympic records
