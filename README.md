@@ -116,6 +116,17 @@ ORDER BY num_events DESC;
 
 **Objective:** Find which year most events happened.
 
+### 9. Which athlete gets the most gold medal?
+```sql
+SELECT name, count(medal) 
+AS num_golds 
+FROM athlete_events
+WHERE medal= "gold"
+GROUP BY 1
+ORDER BY 2 DESC;
+```
+**Objective:** Identify which athlete gets most gold medal.
+
 
 
 ## Findings and Conclusion
