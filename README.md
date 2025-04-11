@@ -16,7 +16,7 @@ This project involves a comprehensive analysis of olympic Games using SQL. The g
 
 The data for this project is sourced from the Kaggle dataset:
 
-- **Dataset Link:** [Olympic Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download](https://app.mavenanalytics.io/datasets?search=olym)
+- **Dataset Link:** [Olympic Dataset]([https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download](https://app.mavenanalytics.io/datasets?search=olym])
 
 
 ##  Anlysis from the dataset
